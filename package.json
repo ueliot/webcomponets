@@ -1,12 +1,30 @@
 {
   "name": "codespaces-blank",
   "version": "1.0.0",
-  "description": "",
+  "description": "## webcomponents - https://github.com/WICG/webcomponents - https://www.webcomponents.org/ - https://open-wc.org/ - https://lenguajejs.com/webcomponents/funcionalidad/clase-webcomponent/ - https://lenguajejs.com/javascript/oop/clases/",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    
+   
+      "build": "esbuild js/index.js --bundle --minify --outfile=public/bundle.js --define:process.env.NODE_ENV=\\'production\\'"
+   
+  
+  
+
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ueliot/webcomponets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ueliot/webcomponets/issues"
+  },
+  "homepage": "https://github.com/ueliot/webcomponets#readme",
+  "dependencies": {
+    "@vanillawc/wc-bullet-chain": "^1.0.29",
+    "esbuild": "0.17.8"
+  }
 }
