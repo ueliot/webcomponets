@@ -104,3 +104,6 @@ ES6 Modul  https://caniuse.com/?search=ES6%20modul\
 
 - Desintalaré sbuild y usaré vite que ya usa esbuild x debajo 
 - https://vitejs.dev/guide/why.html
+  
+  ## Usando Lit Elements de midudev
+  - https://www.youtube.com/watch?v=wcAtgRAYQ7o
