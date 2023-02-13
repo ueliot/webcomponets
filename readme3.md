@@ -1,7 +1,10 @@
+# LINKS y NOTAS  
+
 - https://www.youtube.com/watch?v=3IDoPAaW4Bg   (Shadow DOM)
 - https://www.youtube.com/watch?v=cdJnn4LloR0   otro implementacion de webcomponentes
 - https://github.com/vanillawc    //vanilla webcomponents 
 - https://github.com/Polydile/dile-components   //polydile webcomponets
+- https://www.youtube.com/watch?v=3S_up4XQX5E&list=PLIcuwIrm4rKfVEWId6In6rzVY6Xum0y9u&index=11  //video sobre dilecomponents
 - https://dile-components.polydile.com/ 
 - https://esbuild.github.io/getting-started/
 - https://dev.to/ushieru/esbuild-desarrollo-sin-dolor-5hmf
@@ -98,3 +101,6 @@ ES6 Modul  https://caniuse.com/?search=ES6%20modul\
 "build:prod": "esbuild index.js --bundle --define:process.env.NODE_ENV='production' --minify --outfile=bundle.min.js"
 
 ```
+
+- Desintalaré sbuild y usaré vite que ya usa esbuild x debajo 
+- https://vitejs.dev/guide/why.html
