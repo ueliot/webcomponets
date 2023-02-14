@@ -113,3 +113,4 @@ ES6 Modul  https://caniuse.com/?search=ES6%20modul\
   - https://github.com/web-padawan/awesome-lit
   - https://github.com/web-padawan/awesome-web-components
   - https://github.com/web-padawan?tab=repositories
+  - https://shoelace.style/components/textarea
