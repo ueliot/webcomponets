@@ -108,4 +108,5 @@ ES6 Modul  https://caniuse.com/?search=ES6%20modul\
   ## Usando Lit Elements de midudev
   - https://www.youtube.com/watch?v=wcAtgRAYQ7o
   - https://www.youtube.com/watch?v=JXcNPXGHjlM
+  - https://www.youtube.com/watch?v=rfI0hHTyH8g&list=PLIcuwIrm4rKeeN4g3GIAKGpzUNJtu9sQK
   - https://lit.dev/
